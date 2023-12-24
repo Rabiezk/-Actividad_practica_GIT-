@@ -1,2 +1,2 @@
-# -Actividad_practica_GIT-
+# Actividad_practica_GIT
 PRACTICA GIT Y GITHUB
